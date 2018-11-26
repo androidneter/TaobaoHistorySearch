@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="space_mini">2dp</dimen>
+    <dimen name="space_small">4dp</dimen>
+    <dimen name="space_normal">8dp</dimen>
+    <dimen name="space_large">16dp</dimen>
+    <dimen name="space_xlarge">32dp</dimen>
+
+    <dimen name="form_font_size">18sp</dimen>
+    <dimen name="nav_font_size">15sp</dimen>
+    <dimen name="pagerTabTextSize">15sp</dimen>
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="title_height">48dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+</resources>
